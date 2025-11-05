@@ -11,9 +11,9 @@ Great for learning: dictionaries, loops, conditionals, menu-driven scripts, data
 ## OUTPUT 
 1)
 
-![Program Screenshot](Screenshot%2025-11-05%214558.png)
+![Program Screenshot](Screenshot_2025-11-05_214558.png)
 
 2)
 
-![Program Screenshot](Screenshot%2025-11-05%214617.png)
+![Program Screenshot](Screenshot_2025-11-05_214617.png)
 
