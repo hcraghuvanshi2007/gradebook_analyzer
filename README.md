@@ -1,4 +1,4 @@
-# gradebook_analyzer
+# Gradebook Analyzer
 A simple Python gradebook program for quick student grade analysis.
 Enter student names and marks manually
 Calculates average, median, highest and lowest scores
@@ -9,6 +9,11 @@ Prints clear tables and summaries in the terminal
 All logic written without advanced libraries—basic Python only
 Great for learning: dictionaries, loops, conditionals, menu-driven scripts, data validation.
 ## OUTPUT 
+1)
+
 ![Program Screenshot](Screenshot%2025-11-05%214558.png)
+
+2)
+
 ![Program Screenshot](Screenshot%2025-11-05%214617.png)
 
