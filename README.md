@@ -9,6 +9,6 @@ Prints clear tables and summaries in the terminal
 All logic written without advanced libraries—basic Python only
 Great for learning: dictionaries, loops, conditionals, menu-driven scripts, data validation.
 ## OUTPUT 
-![Program Screenshot](Screenshot 2025-11-05 214558.png)
-![Program Screenshot](Screenshot 2025-11-05 214617.png)
+![Program Screenshot](Screenshot%2025-11-05%214558.png)
+![Program Screenshot](Screenshot%2025-11-05%214617.png)
 
